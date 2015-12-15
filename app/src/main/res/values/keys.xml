@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oxford_speech_api_language">en-us</string>
+    <string name="oxford_speech_api_subscription_key">5e29e1e2cd2940e29d27f3e5d234d4cf</string>
+</resources>
